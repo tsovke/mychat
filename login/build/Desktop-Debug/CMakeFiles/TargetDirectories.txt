@@ -1,0 +1,9 @@
+/home/xt/login/build/Desktop-Debug/CMakeFiles/login.dir
+/home/xt/login/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/xt/login/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/xt/login/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/xt/login/build/Desktop-Debug/CMakeFiles/install.dir
+/home/xt/login/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/xt/login/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/xt/login/build/Desktop-Debug/CMakeFiles/login_autogen_timestamp_deps.dir
+/home/xt/login/build/Desktop-Debug/CMakeFiles/login_autogen.dir
